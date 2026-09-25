@@ -1,6 +1,6 @@
 # assignment 1
 
-tugas node.js
+tugas node.js yaitu task manager sederhana
 
 ## cara jalanin
 ```bash
