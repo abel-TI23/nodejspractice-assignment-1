@@ -1,0 +1,12 @@
+{
+  "name": "nodejspractice-assignment-1",
+  "version": "1.0.0",
+  "description": "practice1 of platform programming",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abel hendrik mp",
+  "license": "ISC"
+}
